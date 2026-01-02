@@ -1,0 +1,12 @@
+name = "satellite_telemetry_validator"
+description = "ada project"
+version = "0.1.0-dev"
+
+authors = ["J"]
+maintainers = ["J <jakaylarw1@gmail.com>"]
+maintainers-logins = ["Jakayla-R"]
+licenses = "MIT"
+website = ""
+tags = ["satellite", "telemetry", "aerospace"]
+
+executables = ["satellite_telemetry_validator"]
