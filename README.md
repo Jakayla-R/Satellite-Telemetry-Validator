@@ -45,7 +45,3 @@ Similar validation could have prevented Firefly Flight 6 anomaly
 - Type-safe range checking prevents invalid telemetry values
 - Compile-time validation reduces runtime errors
 
-## Author
-**Space Systems Analytics**  
-MS Space Systems Management, Florida Tech  
-STK Level 1 Certified
