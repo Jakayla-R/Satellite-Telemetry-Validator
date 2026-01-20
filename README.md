@@ -9,10 +9,7 @@ Validates incoming satellite telemetry data against safe operating ranges:
 - Attitude: 0° to 360°
 
 ## Why Ada?
-Ada's strong type system catches data errors at compile time, preventing the anomalies that cause mission failures like:
-- Firefly Aerospace Flight 6 upper stage failure
-- Intuitive Machines lander tip-overs
-- ispace Resilience lunar crash
+Ada's type system catches data errors at compile time, preventing the anomalies that cause mission failures like:
 
 ## How to Run
 ```bash
@@ -35,7 +32,6 @@ OK: Attitude within safe range
 
 === SUMMARY ===
 This validator catches bad telemetry data before it causes failures
-Similar validation could have prevented Firefly Flight 6 anomaly
 ```
 
 
