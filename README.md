@@ -9,7 +9,7 @@ Validates incoming satellite telemetry data against safe operating ranges:
 - Attitude: 0° to 360°
 
 ## Why Ada?
-Ada's type system catches data errors at compile time, preventing the anomalies that cause mission failures like:
+Ada's type system catches data errors at compile time, preventing the anomalies that cause mission failures.
 
 ## How to Run
 ```bash
